@@ -1,8 +1,11 @@
 {
-  "name": "vite-project",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "@hibittrade68/vue-landing-page-solid",
+  "version": "1.0.0",
+  "description": "Vue landing page",
+  "main": "index.js",
+  "author": "@hibittrade68",
+  "repository": "https://github.com/hieunv6/Vue-landing-page-solid",
+  "license": "ISC",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
